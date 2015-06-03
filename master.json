@@ -9,6 +9,16 @@
                     "bucket_name": "oam-beta-node"
                 }                  
             ]
+        },
+        {
+            "name": "Humanitarian OpenStreetMap Team",
+            "contact": "info@hotosm.com",
+            "locations": [
+                {
+                    "type": "s3",
+                    "bucket_name": "hotosm-oam"
+                }                  
+            ]
         }
     ]
 }
