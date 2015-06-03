@@ -13,6 +13,16 @@
                     "bucket_name": "hotosm-oam"
                 }                
             ]
-        }
+        }, 
+        {
+            "name": "Astro Digital",
+            "contact": "hello@astrodigital.com",
+            "locations": [
+                {
+                    "type": "s3",
+                    "bucket_name": "oin-astrodigital"
+                }                  
+            ]
+        }        
     ]
 }
