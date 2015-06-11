@@ -1,5 +1,7 @@
 # Open Imagery Network
 
+[![Join the chat at https://gitter.im/openimagerynetwork/oin-register](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/openimagerynetwork/oin-register?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### What is OIN?
 
 Open Imagery Network (OIN) is a discoverable network of openly licensed imagery. Contributors to OIN make imagery and its associated metadata available under a [common license](https://creativecommons.org/licenses/by/4.0/). Information about the location and the storage type for contributed imagery and metadata can be found in [this register](https://raw.githubusercontent.com/openimagerynetwork/oin-register/master/master.json). Anyone can access and read imagery found from this register, enabling tooling to be built that searches across all participating open imagery data.
