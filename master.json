@@ -6,10 +6,6 @@
             "locations": [
                 {
                     "type": "s3",
-                    "bucket_name": "oam-beta-node"
-                },
-                {
-                    "type": "s3",
                     "bucket_name": "hotosm-oam"
                 }                
             ]
