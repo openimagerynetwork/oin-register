@@ -2,7 +2,7 @@
     "nodes": [
         {
             "name": "Humanitarian OpenStreetMap Team",
-            "contact": "info@hotosm.com",
+            "contact": "info@hotosm.org",
             "locations": [
                 {
                     "type": "s3",
