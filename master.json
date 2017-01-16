@@ -6,7 +6,7 @@
             "locations": [
                 {
                     "type": "s3",
-                    "bucket_name": "oin-hotosm"
+                    "bucket_name": "hotosm-oam"
                 }                
             ]
         }, 
